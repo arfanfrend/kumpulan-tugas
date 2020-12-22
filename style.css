@@ -1,0 +1,25 @@
+
+body {
+            background-color: #B0C4DE;
+        }
+        
+		.bio { 
+            background-color: #000080;
+            text-align : center;
+            color: white; 
+            font-style: bolder,underline; 
+            font-family: Impact; 
+        }
+	
+		table{
+            width: 900px;
+            align: center;
+            border: 0px;
+            font-size: 30px;
+            background-color:#0606f3;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        td{
+            color:white;
+        }
